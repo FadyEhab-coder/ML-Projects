@@ -14,3 +14,6 @@ Welcome to my portfolio! I'm a data science learner with strong Python and data 
 - Jupyter Notebooks / Google Colab
 
 ---
+## 🌍 Let's Connect
+
+- 📧 Email: fadyehab.ai@gmail.com
